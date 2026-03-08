@@ -2583,3 +2583,61 @@ Pac?!
 Pac?!
 
 
+## 六级/雅思词汇整理（基于本文件）
+
+### 一、六级核心词（CET-6）
+
+| 单词 | 词性 | 中文释义 |
+|---|---|---|
+| collide | v. | 碰撞；冲突 |
+| survive | v. | 生存；幸存 |
+| destroyed | adj./v. | 被摧毁的；毁坏 |
+| definition | n. | 定义；释义 |
+| influence | n./v. | 影响；对……起作用 |
+| conflict(ed) | n./v./adj. | 冲突；矛盾（的） |
+| institutionalized | adj. | 制度化的；受体制束缚的 |
+| alleviate | v. | 缓解；减轻 |
+| politics | n. | 政治；政治活动 |
+| scholarship | n. | 奖学金；学术成就 |
+| mechanism | n. | 机制；机理 |
+| recession | n. | 经济衰退；萧条 |
+| confidence | n. | 信心；自信 |
+| destiny | n. | 命运 |
+| consume | v. | 消耗；消费；吞噬 |
+| environment | n. | 环境 |
+| perspective | n. | 视角；观点 |
+| emerge | v. | 出现；显现 |
+| considered | adj./v. | 经过深思熟虑的；考虑过 |
+| benefits | n. | 好处；益处 |
+
+### 二、雅思进阶词（IELTS）
+
+| 单词 | 词性 | 中文释义 |
+|---|---|---|
+| metaphor(s) | n. | 隐喻；暗喻 |
+| metaphysically | adv. | 形而上学地；抽象地 |
+| euphoria | n. | 欣快；兴奋感 |
+| captivity | n. | 囚禁；拘禁状态 |
+| evidently | adv. | 显然；明显地 |
+| fortunate | adj. | 幸运的 |
+| consensus | n. | 共识；一致意见 |
+| relentless | adj. | 不懈的；持续强烈的 |
+| distortion | n. | 扭曲；曲解 |
+| abortion | n. | 流产；中止 |
+| decapitated | adj./v. | 被斩首的；砍掉头部 |
+| suicidal | adj. | 自杀性的；自毁倾向的 |
+| illuminate(d) | v./adj. | 阐明；照亮；被照亮的 |
+| conceived | v. | 构想；孕育；设想 |
+| shun(s) | v. | 避开；回避 |
+| represent(s) | v. | 代表；体现 |
+| thoughtfulness | n. | 深思熟虑；体贴 |
+| harsh | adj. | 严酷的；刺耳的 |
+| outlook | n. | 观点；前景 |
+| stagnant | adj. | 停滞的；不发展的 |
+| internal | adj. | 内部的；内在的 |
+
+### 三、建议优先背诵（30词）
+
+collide, survive, influence, institutionalized, alleviate, politics, scholarship, mechanism, recession, confidence, destiny, consume, environment, perspective, emerge, metaphor, euphoria, captivity, evidently, consensus, relentless, distortion, suicidal, conceived, shun, represent, thoughtfulness, harsh, outlook, stagnant
+
+
